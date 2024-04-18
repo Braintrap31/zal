@@ -6,6 +6,8 @@
     "minimum": "11",
     "verified": "11"
   },
+  "manifest": "",
+  "download": "https://github.com/Braintrap31/zal/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "pack-1",
