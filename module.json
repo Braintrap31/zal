@@ -1,0 +1,22 @@
+{
+  "id": "zalupa",
+  "title": "Залупа",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Pack 1",
+      "path": "packs/pack-1",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
